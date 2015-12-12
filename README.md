@@ -22,4 +22,4 @@ for more information, please refer to *test.c*
 feel free to send pull requests
 
 ## Author's Information
- Created by @Zhang Shihai
+ Created by @Zhang Shihai(zhangshihai1232@126.com)
