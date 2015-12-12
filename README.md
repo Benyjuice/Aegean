@@ -16,7 +16,7 @@ sysInfoConfig(p, SIZE);
 memPoolConfig();
 ```
 
-for more information, please reference to *test.c*
+for more information, please refer to *test.c*
 
 ## How to contribute to this project
 feel free to send pull requests
